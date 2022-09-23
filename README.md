@@ -47,6 +47,62 @@ exp9
 
 exp10
 ![exp10](https://user-images.githubusercontent.com/113018329/191779206-a8fcdbec-d75c-425a-9de6-3535ebf5dba1.png)
+exp13
+![exp13](https://user-images.githubusercontent.com/113018345/191743891-c392db7e-c655-429b-818d-e61d4bb35611.png)
+
+
+
+
+exp14
+![Screenshot (42)](https://user-images.githubusercontent.com/113018345/191747458-2fba0086-05b1-4a52-a017-c794ed0d158a.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/113018345/191747478-6e8400f5-5ba8-4f0c-b0e6-19bd63c9f985.png)
+
+
+
+
+
+exp15
+![exp15](https://user-images.githubusercontent.com/113018345/191743964-3d0ded10-b5e5-44f1-aa89-6c71997e43e2.png)
+
+
+
+
+
+
+
+exp16
+![exp16](https://user-images.githubusercontent.com/113018345/191744006-c92b147a-01ec-4ca4-accd-18aeafc9278c.png)
+
+
+
+
+
+
+
+exp17
+![Screenshot (40)](https://user-images.githubusercontent.com/113018345/191747261-129cffa1-e614-4381-a610-38a2c059d568.png)
+
+
+
+
+
+
+exp18
+![exp18](https://user-images.githubusercontent.com/113018345/191745212-371a6b78-4754-4f27-8318-f9bd93758c22.png)
+
+
+exp19
+[EX_19 WORKSHEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment-19.txt)
+
+![image](https://user-images.githubusercontent.com/113408308/191777459-e704eae8-00b3-4687-bc5d-0ebba6e6fdb7.png)
+
+
+
+
+exp20
+[EX_20 WORKSHEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment-20.txt)
+
+![image](https://user-images.githubusercontent.com/113408308/191778210-5cec9bc9-4bfd-4764-b458-93702f4bcf65.png)
 
 
 

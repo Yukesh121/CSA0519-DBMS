@@ -104,15 +104,49 @@ exp20
 
 ![image](https://user-images.githubusercontent.com/113408308/191778210-5cec9bc9-4bfd-4764-b458-93702f4bcf65.png)
 
+exp21
+[EXPERIMENT 21](https://github.com/charanyac/CSA0519--CHARANYA-DBMS/blob/main/EXPERIMENT%2021)
+![image](https://user-images.githubusercontent.com/113339287/191901527-f5fe0811-632d-4cf5-8049-a9d3d368835a.png)
+![image](https://user-images.githubusercontent.com/113339287/191901538-31ee9ce4-b19a-4d76-84f5-f75ab6f56afd.png)
+![image](https://user-images.githubusercontent.com/113339287/191901555-b929924e-0388-4cfa-987c-729ac7ffa032.png)
 
 
 
-exp11
-![exp11](https://user-images.githubusercontent.com/113018345/191743773-0b515fad-e6ea-4503-ab36-0a60bc112446.png)
-![ex11](https://user-images.githubusercontent.com/113018345/191744345-fbfad698-26a2-48cb-bce9-ba96585f1a6a.png)
+
+
+exp22
+[EXPERIMENT 22](https://github.com/charanyac/CSA0519--CHARANYA-DBMS/blob/main/EXPERIMENT%2022)
+![image](https://user-images.githubusercontent.com/113339287/191901981-bffc4fcc-71a8-4a84-9175-d54e14acd6ac.png)
+![image](https://user-images.githubusercontent.com/113339287/191901989-3747d8c2-9526-4097-8f82-b3f52dc7f6cc.png)
+![image](https://user-images.githubusercontent.com/113339287/191902000-024394e3-b6a2-4d57-9ea7-f7f8d6cafcb4.png)
 
 
 
-exp12
-![exp12](https://user-images.githubusercontent.com/113018345/191743834-4295aca1-47cb-4ba5-adef-e8e09af334e7.png)
-![ex 12](https://user-images.githubusercontent.com/113018345/191744442-b4e3a6a3-93c6-4967-a505-f8374263d84d.png)
+
+
+exp23
+[EXPERIMENT 23](https://github.com/charanyac/CSA0519--CHARANYA-DBMS/blob/main/EXPERIMENT%2024)
+![image](https://user-images.githubusercontent.com/113339287/191903180-63d6bc73-03d1-4f7f-ae84-f6d073e801e5.png)
+
+
+
+
+
+exp24
+[EXPERIMENT 24](https://github.com/charanyac/CSA0519--CHARANYA-DBMS/blob/main/EXPERIMENT%2024)
+![image](https://user-images.githubusercontent.com/113339287/191903222-0b4812da-dd2d-4573-b276-7ea202e23531.png)
+
+
+
+
+
+
+exp25
+[EXPERIMENT 25](https://github.com/charanyac/CSA0519--CHARANYA-DBMS/blob/main/EXPERIMENT%2025)
+![image](https://user-images.githubusercontent.com/113339287/191903329-3dca43ca-1abc-4b65-8eff-fcd66483da0c.png)
+![image](https://user-images.githubusercontent.com/113339287/191903342-424f42f1-6011-4b5d-a54f-ca609763fa3b.png)
+![image](https://user-images.githubusercontent.com/113339287/191903359-76fc5223-344e-46a5-81d4-95bbbc184dcd.png)
+![image](https://user-images.githubusercontent.com/113339287/191903380-5ab500e6-b6c0-4ab5-8a34-39703ff497ff.png)
+![image](https://user-images.githubusercontent.com/113339287/191903426-65886f8a-6feb-4007-b267-2a4b18f59f4f.png)
+
+
